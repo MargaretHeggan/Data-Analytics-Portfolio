@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Excel Project "Coming Soon"
 img: img/portfolio/Excel Image.png
-alt: "Excel Project"
+alt: Excel Project
 
 # Reminder: Update this link with your own project link
 project-url: https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view?usp=sharing
