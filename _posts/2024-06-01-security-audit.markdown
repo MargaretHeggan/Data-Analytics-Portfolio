@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-title: Security Audit
+title: Excel Project "Coming Soon"
 img: audit.png
 alt: image-alt
 
