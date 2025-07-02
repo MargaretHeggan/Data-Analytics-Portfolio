@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 title: Capstone Project "Coming Soon"
 img: Capstone Image.png
-alt: image-alt
+alt: Capstone Image
 
 # Reminder: Update this link with your own project link
 project-url: https://drive.google.com/file/d/1qgQmrH4yzHK6-cdeHpFRvSbdzhjV17pP/view?usp=sharing
