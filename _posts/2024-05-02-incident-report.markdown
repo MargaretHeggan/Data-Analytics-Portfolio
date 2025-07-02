@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 title: Capstone Project "Coming Soon"
-img: incident.png
+img: _includes/Capstone Image.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
