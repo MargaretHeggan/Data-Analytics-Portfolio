@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-title: Capstone Project :Coming Soon"
+title: Capstone Project "Coming Soon"
 img: incident.png
 alt: image-alt
 
