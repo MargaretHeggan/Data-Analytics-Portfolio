@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: Excel Project "Coming Soon"
-img: img/portfolio/Excel Image.png
+img: Excel Image.png
 alt: Excel Project
 
 # Reminder: Update this link with your own project link
